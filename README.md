@@ -10,4 +10,4 @@
 * 💬 Gerando inshights com dados para solucionar problemas de negócio! 
 
 ## **"Se temos dados, vamos olhar para os dados. 
-## **Se tudo o que temos são opiniões, vamos com as minhas"**
+## Se tudo o que temos são opiniões, vamos com as minhas"**
