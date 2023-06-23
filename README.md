@@ -6,4 +6,3 @@
 * 🎓Graduado em Ciência de dados pela Universidade Cruzeiro do Sul.
 * 💬Pergunte-me sobre como  gerar inshights com dados estruturados para solucionar problemas de negócio, posso te ajudar!
 
-* Projetos: [(https://github.com/alexandrofs31/Portifolio-Projeto-1)]
