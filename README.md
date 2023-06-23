@@ -9,4 +9,5 @@
 * 🎓Graduado em Ciência de dados pela Universidade Cruzeiro do Sul.
 * 💬 Gerando inshights com dados para solucionar problemas de negócio! 
 
-## **"Se temos dados, vamos olhar para os dados. /n Se tudo o que temos são opiniões, vamos com as minhas"**
+## **"Se temos dados, vamos olhar para os dados. 
+## **Se tudo o que temos são opiniões, vamos com as minhas"**
