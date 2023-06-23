@@ -1,7 +1,7 @@
-# Bem vindo ao meu github
+# 📊 Bem vindo ao meu github 📈
 
 
-### 👦Sobre mim🌱:
+### 👨‍🚀 Sobre mim 🚀:
 
 * 👋Me chamo Alexandro, tenho 45 anos.
 * 📌De Belo Horizonte, Minas Gerais, Brasil.
