@@ -3,7 +3,7 @@
 
 ### 👨‍🚀 Sobre mim 🚀:
 
-* 👋Me chamo Alexandro, tenho 45 anos.
+* 👋Me chamo Alexandro, tenho 46 anos.
 * 📌De Belo Horizonte, Minas Gerais, Brasil.
 * 🎓Especialista em Analytcs e B.I pela Famart.
 * 🎓Graduado em Ciência de dados pela Universidade Cruzeiro do Sul.
