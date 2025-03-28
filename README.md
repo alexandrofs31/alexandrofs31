@@ -1,3 +1,6 @@
+![CAPA LINKEDIN COLABORADORES V2](https://github.com/user-attachments/assets/4d3346b6-8cef-438f-ad85-53cbc5421a92)
+
+
 # 📊 Bem vindo ao meu github 📈
 
 
